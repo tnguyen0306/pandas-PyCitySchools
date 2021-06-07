@@ -95,9 +95,9 @@ As final considerations:
 * You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
 * You must include a written description of at least two observable trends based on the data.
 ---
-*By looking at the Scores by School Type table, charter type schools has better passing rate compared to district school type.
-*Also, by looking at the Top Performing School table and also the Score by School Size table, those schools that have small to medium size (less than 2000 students) and have the least amount of spending per student (less than $640) have the highest passing rate.
-*Overall, the Math score is lower than the Reading score by looking at the average.
+* By looking at the Scores by School Type table, charter type schools has better passing rate compared to district school type.
+* Also, by looking at the Top Performing School table and also the Score by School Size table, those schools that have small to medium size (less than 2000 students) and have the least amount of spending per student (less than $640) have the highest passing rate.
+* Overall, the Math score is lower than the Reading score by looking at the average.
 
 ### Copyright
 
